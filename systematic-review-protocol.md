@@ -15,7 +15,10 @@
 as an appropriate framework? {meulenbelt2012worm}
 - When is cyber war really war in the sense of 'armed conflict’? 
 {droege2012get}
-- 
+- At what point does a cyber attack become an act of war? 
+{pagallo2015cyber}
+- Can cyber attacks be regardedas an unlawful use of force according 
+to Article 2(4) of the United Nations (UN)Charter? {buchan2012cyber}
 
 # {klien2017you}
 
@@ -1134,4 +1137,980 @@ processes.
 the Tallinn manuals is a sign that the phenomena, events, and 
 processes they talk about are not fully, or accurately, understood.
 
-- 
+# {remus2013cyber}
+
+- Since  no  international  instrument  whatsoever cover  the  cyber  
+attacks  the  analogies with   current   international   solutions   
+are   largely   employed. 
+
+- We   illustrate   also   the developments  with relevant examples 
+taken  from  main powers’ doctrine and practice (US, Russia   and   
+China).   The   starting   points   are   the   provisions   regarding 
+  the   use   of (armed)"force"  under  Article  2(4)  and  “armed  
+attack”  under  Article  51  of  United  Nations Charter. 
+
+- The  qualification  of  a  cyber  attack  as  use  of  “armed  
+force”  or  “armed  attack”  is based  a  multi  criteria  threshold  
+developed  by  Schmitt.
+
+- Other  developments  focus  the capacity   of   present   
+International   law   concepts   (direct   and   indirect   armed   
+attack, identification  of  the  aggressor  state,  pertinence  of  
+pre-emptive  or  interceptive  self  defense vis-à-vis cyber ‘armed 
+attack’, etc.) to answer cyber warfare’s structures and challenges.
+
+- Computer attacks originate in the world of hackers, major actors in 
+information revolution which began in the 50s and achieved its 
+momentum in the following decades.
+
+- he  first  step  of  the  evolution  was  the  advent  of  ‘viruses’ 
+ and  ‘Trojan horses’  which  allowed  hackers  to  take  control  of  
+someone  else’s  computer  in  order  to  steal,  alter  or destroy 
+information. The later spreading of the Internet allowed the upgrading 
+of these techniques through ‘viruses’ and computer ‘worms’ that can 
+multiply and spread throughout networks. In the meantime new ‘network  
+malicious  techniques’  (such  as  denial-of-service-DOS,  distributed 
+ denial-of-service  –DDOS  or ‘botnets’) came into being.  
+
+- By  the  end  of  the  80s  the  American  Department  of  Defense  
+became  aware  of  the  new  threats. However  the  real  menaces  
+were  considered  the  attacks  committed  outside  the  crime  domain 
+ and perpetrated  at  international  level  (by  a  State,  on behalf  
+of  a  State  by  terrorists,  etc.). 
+
+-  The  US  military doctrine characterized them as Computer Networks 
+Operations (CNO) under three different branches: 
+
+  * Computer  Network  Attacks  (CNA)  were  defined  as  operations  
+to  disrupt,  deny,  degrade,  or destroy  information  resident  in  
+computers,  computer  networks,  or  the  computers  and  networks 
+themselves
+
+  * Computer  Network  Defences  (CND)  were  defined  as  defensive  
+measures  to  protect  and  defend information,  computers,  and  
+networks  from  disruption,  denial,  degradation  or  destruction.  
+They used   security   measures   that   seek   to   keep   the   
+enemy from   learning   about   own   military capabilities and 
+intentions.
+
+  * Computer  Network  Exploitations  (CNE)  covered  the  collecting  
+and  monitoring  of  enemy’s information.  Usually  they  involve  
+espionage  performed  with  tools  that  penetrate  systems  and 
+return information or copies of files enabling the military to gain an 
+advantage over the enemy
+
+- If  the  US  made  the  first  steps  in  the  field  they  were  
+soon  followed  by  Russia  and  China.3Russia considers  the  cyber  
+means  an  asymmetric  method  for challenging  US  warfare  
+supremacy,  as  part  of  a total warfare approach
+
+- The  Chinese  military  doctrine  is  similar.  For  example  Wang  
+Pufeng,  general  of  the  People's Liberation  Army,  considers  that 
+ “our  war  strategies  must  adapt  to  the  needs  of  the  war  
+information.  Wemust make multiple uses of force and, especially, of 
+non-linear war and methods of multiple information warfare”.
+
+- The main pillars of legal analysis were the provisions regarding the 
+use of "force" under Article 2(4) and “armed  attack”  under  Article  
+51  of  United  Nations  Charter. The  characterization  of  a  
+cyber-attack  as “armed  force”  or  “armed  attack”  was  based  on  
+a  multi  criteria  threshold  developed  by  Schmitt  and grounded  
+on  its  ‘destructiveness’. 
+
+- Some  other  challenging  aspects  were  also  explored  (the  proof 
+ of  state implication,  the  preemptive  or  interceptive  
+self-defense,  etc).  We  uncovered  the  inherent  difficulties  for 
+characterizing cyber-attack under the actual framework of armed 
+conflict. 
+
+- The  evolution  of  real  cyber-attacks  shows  these  States  
+acting  hidden  behind  private  actors  (in  the  case  of  Russia  
+or  China)  or  using highly specialized military forces (in the case 
+of the US). 
+
+- Nobody is willing to escalate computer network attack  to  match  
+the  “armed  attack”  standard  (according  to  Schmitt’s  criteria)  
+and  to  risk  triggering  alegitimate  defense  and  eventually  a  
+full  blown  war.  Therefore  one  may  qualify  all  these  uses  of  
+cyber means  as  “cyber  warfare”  only  as  metaphor.  Under  the  
+actual  international  normative  framework  most cyber acts that can 
+be (loosely) linked to a State belong to cyber exploitation. This is 
+in fact a new secret terrain that increases the reach of States.
+
+# {lilienthal2015cyber}
+
+- Submarine war and special operations, as well as the oper-ational 
+profile of the treacherous assassin, have been foundto be essentially 
+the same as cyber warfare. However, thescholarship suggested that 
+cyber-warfare was more in thenature of information operations. 
+However, this could beconstrued as indistinguishable from the ancient 
+mechanismof fraud and deception. Argument suggested that it waslikely 
+that, if an information operation might provoke anarmed defence, a 
+kinetic outcome would be the end link in achain of causation. The 
+argument suggested that, per theEstonian cyber-attacks case, 
+investigations were unlikely tofollow the chains of causation all the 
+way down to their finallevels, at which consequential physical damage 
+might befound.
+
+- On Brownlie's critique, a biological weapon affecting anenemy's 
+decision-making or psychological abilities would beindistinguishable 
+in character from a cyber-attack producingthe same physical 
+consequence. 
+
+- Buchen deduced that if theStuxnet virus did destroy centrifuges at 
+Natanz, this would besufficient physical damage to establish a breach 
+of Article 2(4).
+
+- Strict liability within customary international law wouldsuggest a 
+greater likelihood of violence of response, andarguably, so would a 
+direct breach of custom, such as inter-fering with sovereignty. 
+Interfering with sovereignty could beseen to produce spontaneous 
+violent acts, such as forexample, in the Estonian removal of the 
+statue of the BronzedRussian Soldier.
+
+- In the light of the presented evidence, the suggestionarises that 
+information operations inherent in cyber-attacks,just as in maneuver 
+warfare, are essentially and necessarilyapriorito a kinetic 
+consequence. his suggestion would meanthat there would be a 
+preponderance of circumstances inwhich a cyber-attack by one state 
+against another would be abreach of Article 2(4) of the UN Charter. 
+
+- Also, even when acyber-attack did not breach Article 2(4) of the UN 
+Charter,application to the United Nations Security Council forremedial 
+action might produce action as if the cyber-attackwere indeed a 
+breach.
+
+- The information operations inherentin cyber-attacks are essentially 
+and necessarilya priorito akinetic consequence
+
+# {geib2012cyber}
+
+- While the rules of thejus in belloare generally operative in 
+cyberspace, it appears to be problematic toapply the fundamental 
+principle of distinction because of the systemic interconnection of 
+military and civi-lian infrastructure in the cyber realm.
+
+-  In this regard, the application of the accepted legal definition of 
+mili-tary objectives will make various components of the civilian 
+cyber infrastructure a legitimate militaryobjective.
+
+- . In order to avoid serious repercussions for the civilian 
+population that might follow from thisinherent interconnectedness, 
+different concepts are analysed that could provide potential solutions 
+for aclearer separation of legitimate military targets and protected 
+civilian installations and networks. 
+
+- Cyberspace is opening up a new war-fighting domain: an artificial 
+theatre of war, additional tothe natural theatres of land, air, sea 
+and outer space
+
+- Today, cyberspace has become hugelyimportant for the military, and 
+there is little doubt that it will only grow in importance in 
+thefuture
+
+- A recent report by the US-China Economic and Security Review 
+Commission concludesthat‘the Chinese People’s Liberation Army (PLA) 
+has long considered the ability to seize infor-mation dominance as 
+prerequisite for achieving victory in future high tech conflicts, but 
+only recently has it begun to develop the capability to convert this 
+strategic requirement into an oper-ational possibility’
+
+- Against this background, today, there seems to be widespread 
+consensus that‘there is no legalvacuum in cyberspace’. Certainly, as 
+far as thejus in bellois concerned, this statementfindssupport in the 
+Martens Clause, Article 36 of Additional Protocol I4and the Advisory 
+Opinionof the International Court of Justice (ICJ) on the Legality of 
+Nuclear Weapons.
+
+- Against this back-ground, thus far, legal discussions have focused 
+primarily on the question ofwhenthe laws ofwar are applicable in 
+relation to military cyber operations.6First and foremost, this has 
+been aline-drawing exercise–that is, a threshold debate concerning the 
+question of when militarycyber operations rise to the level of an 
+armed conflict or, once there is an armed conflict, whetherthey 
+qualify as an‘attack’under the laws of war. These are fundamental 
+questions given that onlyan armed conflict renders applicable the laws 
+of war and given that–at least according to themajority opinion–only 
+an‘attack’in the legal sense of Article 49 of Additional Protocol I 
+isconstrained by the principles of distinction and proportionality.
+
+- Much less attention, however, has been devoted to the question 
+ofhowthese fundamentalhumanitarian law principles will work out in 
+cyberspace. A recent report of the UnitedNations Secretary General 
+speaks about‘new and unique challenges’in this regard.
+
+- The specifictechnological characteristics and the sheer‘otherness’of 
+cyberspace, compared to the naturaltheatres of warfare, raise the 
+question whether the application of the established humanitarianlegal 
+principles also adequately meets the specific humanitarian concerns of 
+the cyber domainwhere military and civilian installations appear to be 
+inherently interconnected. In particular,this technological set-up of 
+cyberspace poses a challenge to the application of the principle 
+ofdistinction
+
+- Whereas it is technically possible to distinguish virtual targets in 
+cyberspace–meaning that ahyper-distinctive attack against a military 
+network is certainly realistic–the application of the accepted legal 
+definition of military objectives in the interconnected cyber domain 
+will renderbasically every cyber installation a legitimate military 
+objective.
+
+-  In cyberspace, every componentof the cyber infrastructure is a 
+dual-use object. After all, by and large the military uses the 
+verysame cyber infrastructure that is used for civilian 
+purposes.10And, as is well known, all objectswhich by their use or 
+intended future use make an effective contribution to military action 
+legallyqualify as legitimate military targets, and therefore may be 
+lawfully attacked in the course of anarmed conflict.11Evidently, this 
+could have far reaching repercussions on the civilian population.
+
+- Nevertheless, the problem has hardly been addressed at all that, 
+because of the systemic techno-logical set-up of cyberspace in times 
+of an armed conflict, basically every cyber installation–possibly even 
+cyberspace as such–potentially qualifies as a military objective
+
+- Unlike the natural theatres of war, the artificial domain of 
+cyberspace is made up of physicalcomponents. Because of the systemic 
+interconnectedness of networks and systems in cyberspaceand the fact 
+that the military currently relies heavily on civilian cyber 
+infrastructure to execute itscommunications and cyber operations, in 
+times of an armed conflict, on the basis of the law as itcurrently 
+stands, a wide range of essential components of the cyber 
+infrastructure would legallyqualify as legitimate military objectives.
+
+- Evidently, if systems which are civilian in nature and serve 
+primarily important civilian inter-ests, such as economic and other 
+societal functions, will nevertheless qualify as legitimate mili-tary 
+objectives as a result of their dual use, this will the increase 
+adverse impact on the civilianpopulation. Unfortunately, without 
+further development of the law, there appears to be no com-pletely 
+satisfactory solution to this problem.
+
+- Of course, theoretically there are a number of sol-utions that could 
+be drawn from the existing humanitarian legal framework, such as 
+thecreation of digital safe havens in cyberspace, or attack exemptions 
+regarding essential cyberinstallations and infrastructure components 
+that may qualify as legitimate military objectivesbut serve civilian 
+functions of the highest priority. A segregation of military and 
+civilian net-works and cyber infrastructure would arguably best 
+safeguard civilian interests and protection.However, while states are, 
+of course, free to employ such measures, it appears that there is 
+cur-rently no hard and fast legal obligation under the international 
+humanitarian legal framework toadopt any of these solutions.
+
+- Thus, while states will be under an obligation to adopt precautions 
+in line with Articles 57 and58 of Additional Protocol I and their 
+respective customary law pendants, for the time being theprinciple of 
+proportionality is of crucial importance for the mitigation of adverse 
+impact on thecivilian population
+
+- In many instances cyber attackswill not lead to physical destruction 
+but to the loss or degradation of the targeted object’s 
+func-tionality, be it a central server or an electric power plant. 
+
+# {buchan2016cyber}
+
+- However, asthis discussion has progressed it has become apparent 
+that international humanitarianlaw was formulated long before the 
+potential for cyber warfare was contemplated andtherefore provides a 
+generally unsatisfactory legal framework that does not adequatelytake 
+into account the unique features of cyberspace and the potential for 
+this domainto be exploited for warlike purposes.
+
+- It goes without saying that if international hu-manitarian law is to 
+retain its legitimacy and credibility – put differently, that 
+interna-tional humanitarian law is to continue to attract compliance – 
+it must keep apacewith technological developments.
+
+- As cyberspace becomes ever more integrated into our daily lives and 
+emerges asa more prominent means and method of warfare, we can expect 
+to see states agitate infavour of reform of international humanitarian 
+law – whether it be through the adop-tion of cyber-specific 
+international agreements or state practice more generally – toensure 
+that it is able to more effectively address cyber conflict. The 
+Tallinn Manual’sprogressive approach to applying international 
+humanitarian law to cyber conflict islikely to act as a lightning rod 
+around which future developments will converge.
+
+# {o2012cyber}
+
+- the USmilitary today has the largest concentration of expertise and 
+legal authority withrespect to cyberspace
+
+- . Those in the legal community who support this develop-ment  are  
+divided  as  to  the  appropriate  legal  rules  to  guide  the  
+military  in  itsoversight  of  the  Internet.  Specialists  on  the  
+international  law  on  the  use  offorce  argue  that  with  analogy  
+and  interpretation,  current  international  law  canbe applied in a 
+way that allows great freedom without sending the message thatthe  USA 
+ is  acting  lawlessly  when  it  comes  to  the  Internet.  Others  
+reject  thisargument as unnecessary and potentially too restrictive. 
+The USA need not ob-serve international law rules, especially not with 
+respect to the Internet. 
+
+- ‘Cyber’  is  one  of  the  most  frequently  used  terms  in  
+international  security  dis-cussions  today.  
+
+- It is not a new term in international law. Internationallawyers  
+have  been  discussing  computers  and  the  law  governing  their  
+use  forseveral  decades.1For specialists  in the area of 
+international  law on the  use of force, however, certain developments 
+since at least 2007 have pushed the termand what it stands for to a 
+top position on their agendas.
+
+- In 2007, Estonia experienced extensive computer hacking attacks that 
+lastedseveral weeks.3Since then, support has been growing to give 
+priority to militarysolutions to cyber security concerns. Soon after 
+the attacks on Estonia, NATO4began developing policies and capacity 
+aimed at cyber security.5In 2008, duringthe   brief   Georgia–Russia   
+War   over   South   Ossetia,   Georgia   experiencedcyber-attacks  
+similar  to  those  suffered  by  Estonia  in  the  previous  
+year.6In2009,  the  USA  began  releasing  a  number  of  policies  on 
+ cyber  security  thatwere   predominantly   military   in   
+orientation.7More   tangibly,   the   USAannounced  in  2009  that  it 
+ would  establish  Cyber  Command  as  a  subunit  ofStrategic    
+Command,    one    of    its    nine    combat    commands,    within  
+  theDepartment  of  Defense.8Also,  in  2009,  computer  malware,  
+known  as  theStuxnet  worm,  was  released  apparently  by  one  or  
+more  governments,  mostlikely  the  USA  and  Israel,  to  slow  the  
+progress  of  Iran’s  nuclear  program,  aproblem otherwise being 
+addressed by the Security Council and through nego-tiations [...] In 
+2011, the USA Congress began debat-ing new legislation that would give 
+even more authority to the Department ofDefense  for  cyber  security, 
+ at  the  expense  of  the  Department  of  HomelandSecurity (DHS).
+
+- Within  the  debate  over  security  in  cyberspace,  it  should  be 
+ recognized  as  apreliminary  matter  that  cyber  space  is  
+international  space.  Activity  in  cyber-space and domestic 
+legislation with respect to it must comply with the 
+relevantinternational law.
+
+- Some looking to the military to defend cyberspace are seekingto 
+exclude considerations of international law either because they are 
+interna-tional law sceptics in general or they believe international 
+law cannot be appliedto the Internet as a practical matter. Stewart 
+Baker, a Washington DC lawyerwho  was an Assistant Secretary  for 
+Policy  and Technology in the  DHS  in theBush administration, 
+dismisses international law in general and its role in cybersecurity  
+in  particular.
+
+- Other scholars who apparently understand that international law is 
+generallythe relevant law for cyber security questions may still argue 
+that it is difficult tofit cyber problems into the rules on 
+international law with respect to the use offorce.
+
+- Peter  Singer,  Noah  Schachtman,  John  Mueller  and  other  
+security  analysts,however, argue that the threat of cyber-attacks has 
+been blown out of propor-tion to the detriment of preventing the real 
+challenges to cyber security: cyber-crime and espionage.16Singer and 
+Schachtman argue that rather than drawingfrom  nuclear  deterrence  
+thinking,  the  better  analogy  is  to  maritime  piracy.17Piracy is 
+a costly and sometimes deadly problem, but is being addressed 
+throughlaw enforcement methods, which are sometimes carried out by the 
+military, butthe FBI and other national police agencies are active in 
+the effort to stop Somalipiracy. 
+
+- Another apt analogy is to the chemical sector. Chemicals are an 
+indis-pensable  part  of  everyday  life  in  the  21st  century,  but 
+ chemicals  can  also  bemade  into  devastating  weapons  of  mass  
+destruction.  To  prevent  this,  theChemical  Weapons  Convention  
+prohibits  the  use  and  possession  of  chemicalweapons.18The  CWC  
+is  monitored  by  Organization  for  the  Prohibition  onChemical  
+Weapons  (OPCW),  as  well  as  national  defence  ministries.  
+Primaryregulation and oversight of the chemical sector, however, is by 
+civil authoritiesand   such   international   organizations   as   the 
+  United   Nations   EnvironmentProgram
+
+- Theevidence shows that the USA, in particular, is building capacity 
+and developingstrategies that make the Department of Defense a major 
+player in Internet useand  protection.  The  concern  with  this  
+development  is  that  the  Pentagon  willconceive of cyber space as 
+it does conventional space, with war fighting in mind.
+
+- Yet,  the  international  legal  rules  on  the  use  of  force,  
+especially  the  rules  onself-defence, raise important barriers to 
+military solutions to cyber space prob-lems.
+
+- Even if some cyber incidents could fit a solid definition of 
+whatconstitutes an armed attack, responding to such an attack will 
+rarely be lawful orprudent if the response is a use of force. 
+
+- In  the  USA  and  other States  where  the  thinking  is  in  
+conventional  militaryterms  respecting  responses  to  cyber  
+problems,  the  advocates  of  such  thinkingappear to be trapped by 
+an ideology of militarism. The vast majority of cybersecurity 
+incidents are carried out not by government-sponsored hackers 
+causingdeaths  and  brick  and  mortar  destruction.  The  major  
+challenge  to  Internetsecurity  is  by  private  criminals  
+interested  in  private  gain.  International  lawsupports cyber 
+security that is achieved through law enforcement 
+cooperation,supported by shared legal norms governing the use of the 
+Internet.
+
+- To date, the problem of Internet security has been the domain of 
+internationallaw scholars with expertise in use of force questions. 
+They have sent the messagethat the Internet may be protected through 
+military force or the threat of mili-tary  force,  analogizing  to  
+Cold  War  deterrence  strategy.  Governments  havefollowed  this  
+modelling,  pouring  resources  into  the  military  for  keeping  
+theInternet  safe  and  for  taking  advantage  of  what  it  offers  
+to  attack  opponents.Doing so has required strained analogies of 
+cyber-attacks to conventional kin-etic attacks. The Internet is now 
+far less secure than before there was a CyberCommand  or  a  NATO  
+CCDCOE.  
+
+# {pagallo2015cyber}
+
+- The use of cyber force can be as severe and disruptive as 
+traditional armedattacks are. Cyber attacks may neither provoke 
+physical injuries nor cause propertydamages and still, they can affect 
+essential functions of today’s societies, such asgovernmental 
+services, business processes or communication systems that 
+progressive-ly depend on information as a vital resource.
+
+- Whereas several scholars claim that aninternational treaty, much as 
+new forms of international cooperation, are necessary, afurther 
+challenge should be stressed: authors of cyber attacks can be 
+non-state actors,and identifying the party responsible for such a use 
+of force, whether non-state actors ornational sovereign states, is 
+often impossible
+
+- Accordingly, several programmes ononline security and national 
+defence have been developed by sovereign states to tacklethis menace 
+and yet, the endurance of Western democracies and their aim to 
+protectbasic rights have already been tested by such programmes over 
+the past years. The newscenarios of cyber force do not only concern 
+the field of international law, since theymay represent the main 
+threat in the fields of national and constitutional law as well
+
+- Here, we should take into account a basic fact:whereas, over the 
+past centuries, humansocieties have used information andcommunication 
+technology (ICT), but have been mainly dependent on technol-ogies that 
+revolve around energy and basic resources, today’s societies 
+areincreasingly dependent on ICT and, furthermore, on information as a 
+vitalresource. Essential functions of today’s societies, such as 
+governmental services,transportation and communication systems, 
+business processes or energy pro-duction and distribution networks, 
+depend on the use of computer platforms.
+
+- Face-to-face with the benefits of this profound transformation, such 
+ICT-dependency entails however its own risks, because“the near 
+absolute depen-dence of critical infrastructure on cyberspace looms 
+particularly large as asecurity concern”(Schmitt2014, p. 273). 
+Consequently, scholars have focusedon a new class of aggressions, 
+dubbed as informational attacks or cyber attacks,conceived as“any 
+action taken to undermine the function of a computernetwork for a 
+political or national security purpose”(Hathaway et al.2012,p. 826).
+
+-  typical illustration is given by the distributed 
+denial-of-service(DDOS)-attacks against both the Republic of Estonia 
+in April 2007 and Georgiain summer 2008, which interrupted, or 
+paralyzed, some critical services andinfrastructures of those 
+countries
+
+- Further forms of digital assaults comprise thesyntactic and semantic 
+attacks: in the former case, the aim is to infect acomputer’s 
+operating system through viruses, worms and Trojan horses, 
+namelyprograms that aim to produce the malfunctioning of a computer 
+network. In thecase of semantic attacks, the purpose is either to 
+insert inaccurate informationin the computer system, or to modify 
+correct information processed by suchsystem, so that computers seem to 
+workproperly, even as they malfunction(Libicki1995). As a result, how 
+then, and to what extent, do such attacksaffect current LOW and IHL?
+
+- Some forms of informational aggression can be a means for real-world 
+operations.For instance, in the words of the former US Secretary of 
+Defence, Leon Panetta, bypenetrating another nation’s networks and 
+computers“an aggressor nation...couldderail passenger trains, 
+contaminate the water supply in major cities, or shut down thepower 
+grid across large parts of the country”. Hence, it seems that the 
+impact of an informational attack on real-world targets can be 
+properly addressed with the current provisions of LOW and IHL, either 
+directly or bythe use of analogy, in accordance with the remarks of 
+Philip Alston in the 2010 Reportto the UN General Assembly on 
+extrajudicial, summary or arbitrary executions.
+
+- As theUN Special Rapporteur affirms,“a missile fired from a drone is 
+no differentfrom any other commonly used weapon...The critical legal 
+question is thesame for each weapon: whether its specific use complies 
+with IHL”(Alston2010, § 79). However, things can be trickier both in 
+the case of informationalforms of aggression that precede, or prepare, 
+a conventional physical assault,and in the case of informational 
+attacks that do not entail any physicalviolence, for they aim to 
+remove or annihilate informational resources fromcyberspace or delete 
+them without backup.
+
+-  The more we deal withICT-driven societies, i.e. societies that 
+depend on information as a vital resource, themore it is likely that 
+even strict informational attacks can force states to desist from—orto 
+engage in—a particular course of action.
+
+- Although such attacks neither provokephysical injuries nor cause 
+property damages, they do affect essential functions oftoday’s 
+societies, such as governmental services, business processes or 
+communicationsystems.
+
+- Admittedly, by examining the new scenarios and challenges of cyber 
+warfarein connection with the severity of strict informational 
+attacks, no one-size-fits-allanswer can properly tackle the complexity 
+of the subject matter and moreover,some critical issues are fated to 
+remain open in the legal field. This is why, asstressed above in 
+Section 3, several scholars claim that an international treaty,much as 
+new forms of international cooperation, are necessary
+
+# {buchan2012cyber}
+
+- The legality of cyber attacks is generally approached from the use 
+of force pro-hibition contained in Article 2(4) UN Charter. In order 
+to constitute an unlawfuluse  of  force  it  is  widely  accepted  
+that  an  intervention  must  produce  physicaldamage. Of course, a 
+cyber attack can cause physical damage and therefore vio-late Article 
+2(4). Upon the available evidence, I submit that the deployment ofthe 
+Stuxnet virus against Iran in 2010 is such an example. 
+
+-  However, the issue isthat many cyber attacks do not manifest 
+physical damage and are thus not cap-tured by Article 2(4). Contrary 
+to claims in existing cyber war literature, this doesnot mean that 
+such attacks are lawful.
+
+- Since the dawn of the ‘Information Age’1States have become highly 
+dependentupon the use of computer technology in order to effectively 
+regulate their socie-ties.2However, as recent events have illustrated, 
+hostile actors have recognizedthis  dependency  and  have  
+increasingly  sought  to  attack  computer  servers  andthe 
+information that they hold. Such operations are known as cyber 
+attacks.
+
+- Given both the inherent hostilityof  cyber  attacks  and  their  
+ability  to  generate  grave  destructive  effects,  it  is perhaps  
+unsurprising  that  cyber  attacks  have  been  generally  approached  
+fromthe perspective of thejus ad bellum;5specifically, can cyber 
+attacks be regardedas an unlawful use of force according to Article 
+2(4) of the United Nations (UN)Charter?
+
+- This  has  proven  to  be  a  difficult  question  for  the  
+international  lawyer  toanswer because of the variety of different 
+consequences that cyber attacks canproduce.7On the one hand, cyber 
+attacks can cause physical damage compar-able  to  an  attack  by  
+conventional  weapons.  For  example,  a  cyber  attack  candisable an 
+air traffic control system and cause planes to crash or can 
+interferewith and corrupt the  operating system  of a power station 
+and cause a nuclearmeltdown. On the other hand, cyber attacks may not 
+cause any physical damage.Examples include cyber attacks that cause 
+key government websites to crash orthat destroy or manipulate 
+important information located on computer servers.
+
+- Importantly, and as we shall see, Article 2(4) is an effects-based 
+prohibition.The  generally  accepted  interpretation  of  Article  
+2(4)  is  that  only  those  inter-ventions that produce physical 
+damage will be regarded as an unlawful use offorce. Consequently, 
+according to positive international law those cyber attacksthat  do  
+not produce  physical  damage  will not  constitute a violation  of 
+Article2(4)
+
+- Commentators have therefore suggested that these types of cyber 
+attacksfall outside of the international regulatory framework and 
+there are thus ‘scantlegal impediments to launching the computer wars 
+of tomorrow’
+
+- The  argument  runs  that  the  UN  Charter  was  established  in  
+the  immediateaftermath of the Second World War when the main threat 
+to international peace and  security  was  represented  by  
+professional  armies  employing  conventionalweapons.  Article  2(4)  
+was  therefore  devised  in  order  to  address  this  type  offorce.  
+ Quite   clearly,   Article   2(4)   was   never   intended   to   
+address   attacksagainst  computer  systems  or  the  information  
+resident  on  them.  Article  2(4)  isthus considered anachronistic 
+and demonstrates an ‘inability’10to protect statesfrom new methods of 
+warfare like cyber attacks that do not manifest physicaldamage.
+
+- However, this reality has caused considerable concernwithin  cyber  
+war  scholarship,  with  commentators  pointing  out  that  in  
+theInformation  Age  an  attack  against  computers  servers  or  
+information  locatedon   them   can   be   just   as   destructive   
+as   an   attack   that   produces   physicaldamage. Examples usually 
+offered in this context are cyber attacks that disablea State’s 
+military defence network or cripple its financial sector.
+
+- Proposed reforms generally fall into one of two categories.15The 
+conventionalproposal  is  that  Article  2(4)  needs  to  be  subject  
+to  an  ‘interpretive  reorienta-tion’,16dilating  its  scope  in  
+order  to  encompass  cyber  attacks  which,  althoughnot producing 
+physical damage, nevertheless have a destructive 
+impact.17Morerecently,  there  have  been  sustained  calls  that  a  
+‘new,  comprehensive  legal framework is needed to address cyber 
+attacks’.18In particular the call has beenfor an international treaty, 
+similar to the Outer Space Treaty 1967 or the UNConvention on Law of 
+the Sea 1982, which would regulate the use of computertechnology and, 
+specifically, prohibit hostile attacks against computer servers orthe 
+information resident on them.
+
+- This being said, however, dilation of the term ‘force’ within 
+Article 2(4) eitherby way of treaty reform or state practice20is 
+unlikely. No reform to the text ofthe  UN  Charter  has  ever  been  
+agreed  and  State  practice  in  the  context  ofapplying Article 
+2(4) to cyber attacks is far from consistent.21At least anytimesoon, 
+the agreement and implementation of an international treaty also 
+seemsunlikely.
+
+- This  notwithstanding,  the  purpose  of  this  article  is  to  
+argue  thatcontrary  to  existing  claims  the  current  international 
+ legal  frameworkdoes notrender state security as vulnerable to cyber 
+attacks as contemporary cyber warscholarship  would  have  us  
+believe.  Sure,  cyber  attacks  that  do  not  producephysical  
+damage  do  not  fall  within  the  Article  2(4)  prohibition.  
+However,  Iargue  that  such  cyber  attacks  are  nevertheless  
+regulated  by  international  law.Specifically, I submit that such 
+attacks can still be regarded as unlawful on thebasis of the principle 
+of non-intervention that is ‘part and parcel’ of 
+customaryinternational law.
+
+- Sure,  a  cyber  attack  that  producesphysical  damage  will  
+amount  to  a  violation  of  Article  2(4).  A  good  exampleof  this 
+ is  the  cyber  attack  against  Iran  in  2010.  Although  there  
+are  questionsover  the  exact  impact  of  the  Stuxnet  virus,  the  
+general  consensus  is  that  thecomputer virus physically destroyed 
+centrifuges at Natanz nuclear facility. Suchphysical  damage  would  
+bring  this  attack  within  the  prohibition  contained  inArticle 
+2(4).
+
+- However, it is perfectly conceivable that a cyber attack will not 
+produce phys-ical damage and thus will not violate Article 2(4). 
+Contrary to claims in existingscholarship,  this  does  not  mean  
+that  such  attacks  are  necessarily  lawful.  Theobjective of this 
+article has been to reveal that cyber attacks that do not 
+producephysical  damage  but  do  yield  damaging  effects  may  still 
+ fall  foul  of  thenon-intervention principle. As I have argued, a 
+cyber attack will constitute anunlawful  intervention  under  
+customary  international  law  where  it  can  be  re-garded  as  the  
+intentional  application  of  coercion  against  a  State  in  
+relationto  a  matter  that  it  is  freely  entitled  to  determine.  
+I  submit  that  the  cyberattacks against Estonia in 2007 provide a 
+good example of cyber attacks amount-ing  to  an  unlawful  
+intervention.  It  is  thus  apparent  that  the  principle  
+ofnon-intervention represents a powerful (albeit often unrecognized) 
+internationallegal tool that can be used by States in order to protect 
+them from coercive cyberattacks.
+
+# {allenby2014new}
+
+- Throughout history, new military technologies have had profound 
+ramifications: The rise of gunpowder andcannon created economies of 
+scale that encouraged the emergence of nation-states, and Prussia used 
+railroadsto surprise the Austrians at Ko¬niggra¬tz, beginning the end 
+of the Austrian Empire
+
+- It is highly unlikely that the dramaticimpacts of emerging military 
+technolo-gies and changing institutional and geo-political  contexts  
+render  the  laws  ofwarÑas a body of law, institutions, 
+andpracticesÑobsolete. 
+
+-  The laws ofwar  constitute  a  body  of  formal  andinformal law, 
+norms, and practices thathave been developed over a long period,with 
+commentary and input from manycultures. It is neither desirable nor 
+likelythat such a robust and developed frame-work  should  suddenly  
+become  totallyobsolete. 
+
+# {hughes2010treaty}
+
+- ‘The next war will begin in cyberspace.’ Those are the words of the 
+nominee to lead the first United States Cyber-Command (USCYBERCOM).1 
+Inside a nondescript building adjacent to the National Security Agency 
+headquarters in Maryland, a small team under the direction of the 
+Secretary of Defense has been working quietly to establish the world’s 
+first cyberspace command. Although its strategic objectives remain 
+classified, its mission is clear: to ensure continued US primacy in 
+cyberspace
+
+- As cyberspace becomes what military strategists and futurists call 
+the ‘next battlespace’, the world may indeed be witnessing not only 
+the rise of a new zone of strategic competition but, more 
+consequentially, ground zero for the next global arms race. Although 
+cyber-warfare is still in its infancy, a new generation of 
+cyber-weaponry and cyber-warriors promises to reshape how war is waged 
+in the early twenty-first century.
+
+- While the electromagnetic spectrum is not an entirely new zone of 
+conflict, disruptive innovations and human dependence on machines make 
+online targets increasingly attractive for states seeking to achieve 
+greater impact at lower cost. This is especially true for small 
+countries looking to gain an asymmetric edge on the 
+twenty-first-century battlefield
+
+- The United States, still the world’s pre-eminent military 
+superpower, is not the only nation preparing to fight the ‘next war’ 
+in cyberspace. By the start of 2010 China, India, and Russia alongside 
+the US, the UK and South Korea are among the first group of countries 
+to establish formal command and control (C2) over military assets in 
+the cyber-domain.
+
+- In addition, a host of non-state actors are engaged in 
+cyber-warfare. Al-Qaeda, Hezbollah, Hamas, Zapatistas and a variety of 
+‘patriotic’ hacker-attackers are just some of the known paramilitary, 
+resistance or revolutionary groups that have used cyber-warfare or 
+plan to engage in it, with or without specific state sanction. 
+
+- As numerous media accounts have attested, even a teenager armed 
+with a consumer PC and a broadband connection can wreak havoc on both 
+business and govern-ment organizations in cyberspace, as demonstrated 
+in 1999 by teenage British hackers who altered British military secure 
+satellite orbits and as reported early in 2008 a teenager in Poland 
+who basically turned the Lodz ‘tram system into his own personal train 
+set’
+
+- While the first all-out cyber-war has yet to be waged, cyber-experts 
+and military strategists anticipate that a major interstate 
+cyber-battle could be fought within the next few years
+
+- Most worrisome from an international affairs perspec-tive is the 
+feeble system of regulation and governance that currently pertains to 
+this emergent threat. As global society becomes ever more dependent on 
+cyber-space for both its most basic and its most critical functions, 
+the economic and social impact from a full-scale cyber-attack could 
+cripple a modern networked state.
+
+- More importantly, General Kevin Chilton of the US Strategic Command 
+(USSTRATCOM) is representative of many military leaders in believing 
+that a major cyber-attack on an advanced information economy could 
+spur a substantial conventional or in some cases even a nuclear 
+response.7 He maintains that national strategists would not want to 
+‘take any response options off the table’ during a battle in the 
+cyber-domain
+
+- For the purposes of this article, the term ‘cyber-warfare’ is used 
+to indicate broadly any warfare waged by states and significant 
+non-state actors in cyberspace. It can include defending information 
+and communications systems, critical infrastructure, weapons systems 
+or military command centres from attack, as well as conducting 
+equivalent offensive opera-tions against an adversary. It does not 
+refer to recreational or socially motivated hacking or ‘hacktivism’
+
+- As this article has attempted to show, rightly or wrongly cyberspace 
+has indeed become the fifth battlespace. While much of the early 
+thinking defining cyber-space as a war domain was carried out in the 
+US during the final years of the Cold War, other leading cyber-powers 
+have embraced this notion and are in the process of creating credible 
+military capabilities for waging counter-attacks or offensive war in 
+cyberspace. It is now up to international society to determine how 
+best to regulate warfare or hostilities in this fifth battlespace.
+
+- While some weapons have been hailed over the years as means to 
+reduce casualties, few have made similar claims about cyber-arms. The 
+truth is that no one truly knows what long-term impact information 
+weapons will have in the practice of state aggression or declared war.
+
+- Unlike warfare in the other four domains, thus far cyber-war is both 
+relatively cheap and readily available, making it all the more 
+alluring for small states and non-state actors to deploy their weapons 
+of technological knowledge, information and skill. 
+
+- States, for their part, are fully capable of quietly exploiting the 
+skills of hackers or so-called patriotic cyber-warriors. Cyber-warfare 
+is also attractive as a means of circumventing the laws of war 
+governing conventional arms. Therefore, it is imperative that 
+interna-tional society consider how classic war principles can guide a 
+new cyber-warfare regime
+
+- While there is no guarantee that a cyber-treaty will prevent the 
+digital equiva-lent of Pearl Harbor, the Blitz, Hiroshima or 9/11, the 
+complete absence of any meaningful regulation or treaty infrastructure 
+leaves the way open for a digital ‘war against all’. Correcting this 
+imbalance will take a concerted effort on the part of international 
+society, especially the United States and the other 
+cyber-powers—China, Russia, India and Japan. In the near term they 
+could well look to the member states of the EU, middle powers like 
+Israel, and South Korea, as well as NATO and other international 
+military alliances, for assistance in shaping a new regime
+
+# {pipyros2018new}
+
+- In the 21st century, cyberspace is the new frontier, a new worldfull 
+of possibilities to help advance prosperity. Cyberspace andthe rapid 
+development of Information and CommunicationTechnologies (ICTs) have 
+fundamentally transformed the global economy and the way of life by 
+providing billions of peopleacross  the  world  with  instant  access  
+to  information, tocommunication and to new economic opportunites
+
+- At thesame time, national security, education, government, 
+health,public safety, as well as sectors such as energy, 
+transporta-tion and communication are closely related to, if not 
+dependenton, cyberspace and updated ICTs. The more the 
+systems, infrastructures, societies and economies are becoming 
+inde-pendent the higher their vulnerability and the complexity todeal 
+with new risks and treats that menace the sovereigntyof States and 
+the well-being of societies and citizens
+
+-  The increas-ing number of cyber-attacks on States’ Critical 
+InformationInfrastructure (CII) are transforming cyberspace also into 
+abattlefield, “the mouse and keyboard being the new weapons”and 
+bringing out “cyber warfare” as the “5th dimension of war"
+
+- The wide range of cyber-attacks against Estonia’s criticalICT’s in 
+2007, following the country’s spat with Russia over theremoval of a 
+war memorial, were the first large scale attacksthat were meant to 
+harm the functionality of the State andto cause a number of adverse 
+effects on the operation of publicadministration and the economy. The 
+specific assault quicklyled  to  the  cultivation  of  fear  among  
+citizens  and  to  thedestabilisation of the country’s financial 
+system, threateningEstonia’s national security
+
+-  A smaller range of cyber operations followed, such as 
+thecyber-attacks against Georgia (June 2008), Lithuania (August2008), 
+Kazakhstan (January 2009) and Ukraine (March and May2014
+
+-  Meanwhile, Advanced Persistent Threats (APT) (Virvilisand 
+Gritzalis, 2013a) clearly demonstrate the fact that cyberwarfare is an 
+increasingly alarming phenomenon. Examplesof such include “Ghostnet” 
+(Kassner, 2009), a large-scale cyberspying operation against the US; 
+“Operation Aurora” (Zetter,2010), a targeted malware attack against at 
+least 30 major UScompanies – including Google and Adobe; “Stuxnet” 
+(Farwelland Rohozinski, 2011), a zero-day malware leading to a 
+sabo-tage against Iran’s nuclear program; and “DarkSeoul” (Virvilisand 
+Gritzalis, 2013b), a sophisticated malware that attackedSouth Korean 
+financial institutions and the Korean broad-caster YTN (Sang-Hun, 201
+
+- In order to defend USA from cyber-attacks former US Presi-dent Obama 
+declared America’s digital infrastructure a strategicnational asset 
+(The Economist, 2010). Such decisions reflect theneed to address the 
+challenges posed with regard to cyber-attacks  that  could  be  
+qualified  as  cyberwar  actions. Thecontinuous increase in both the 
+number and the intensity ofcyber-attacks on States’ CII renders the 
+research on definingand evaluating these categories of cyber-attacks 
+into a press-ing need
+
+- A first range of questions relate to the adequacy and suit-ability 
+of the existing “old” – developed over generations to beapplied on 
+attacks using kinetic weapons and armed vio-lence – and the 
+terminology used (such as force and aggression)to control “the brave 
+new world of cyber warfare
+
+- The difficulties to define andto identify the effects and impacts 
+of a cyber-attack in orderto be equated to an “armed attack” are 
+obvious: if in the “tra-ditional”jus ad bellumframework emphasis is 
+given on humanand/or material destruction, authors are arguing also 
+for “un-availability” of CII as equivalent criteria
+
+- Despite the progress made on regulation and research level toaddress 
+the issues raised, there are still significant gaps in reach-ing a 
+safe and definitive approach on when a cyber-attackconstitutes “use of 
+force” when the right to self-defence shouldbe recognized
+
+- Because the UN Charter prohibits the unau-thorized “use of force”, a 
+State must be able to quickly andsafely assess whether a cyber 
+operation constitutes a “use offorce”  triggering  the  international  
+condemnation  and  eco-nomic sanctions, (active) “cyber self-defense” 
+– or an “armedattack” (with  the  use  of  conventional  military  
+weapons)  asforceful response
+
+- This is primarily achieved by adopting the “effects-based”or 
+“consequences-based” approach, which focuses on the overalleffect of a 
+cyber operation to the victim-State, as well as byusing the 
+qualitative criteria for recognising the impact of cyber-attacks as 
+proposed by the International Group of Experts inthe Manual of the 
+International Law applicable to Cyber warfare(Tallinn Manual)
+
+- jus ad bellum, that bodyof international law that governs a State’s 
+resort to force asan instrument of its national polic
+
+- We have adopted the“effects-based” or “consequences-based” 
+approach, whichfocuses on the overall effect of a cyber operation to 
+the victim-State, as well as by using the qualitative criteria for 
+recognisingthe impact of cyber-attacks as proposed by the 
+InternationalGroup of Experts in the Manual of the International Law 
+ap-plicable to cyber warfare
+
+- In other words, the categorisation of the type ofattack lies 
+heavily on its impact level both in terms of the lossof human lives 
+and in terms of the destruction of critical in-frastructures. 
+Consequently, the degree of the immediate as wellas of the long-term 
+effects of a cyber-attack constitutes a criti-cal factor for its 
+categorisation. Furthermore, the greater the degreeof impact of a 
+cyber-attack, the greater the chances are that itwill be characterised 
+as “use of force”, or even worse, as “armedattack” when its magnitude 
+is so great as to cause loss of humanlives. Thus, the main issue of 
+investigation is to define the methodof measurability of the impact of 
+a cyber-attack
+
+- Despite the constructive contribution of the “Tallinn Manual”,the 
+international legal regime is lagging behind the problemsto deal with. 
+The existing norms do not offer a comprehen-sive legal framework in 
+the way that States can shape policyto  the  threat  of  hostile  
+cyber  operations.  Furthermore,  theuse  of  interpretative  methods  
+such  as  analogies  and  teleo-logical and systematic understanding 
+is lacking the necessarylegal  safety.  Additionally,  state  practice 
+ is  lacking  incharacterising  a  cyber  operation  as  a  “use  of  
+force” or  not.However,  for  the  sake  of  multiple  safety  
+decision  makingwith regard to respond to a cyber attack has to be 
+based oncommonly  accepted  principles  and  pre-existing  norms. 
+As-sessing the feasibility, legitimisation and legality of responsesof 
+cyber-attacks, equivalent to armed attacks, seems to remainto  a  
+large  extent “a  matter  of  speculation  and  hypotheticalreasoning 
+(Kessler and Werner, 2013). Therefore, the system-atic  modelling  
+methodology  could  be  used  as  a  “legalinterpretation  tool”  in  
+areas  where  there  is  uncertainty  ordisagreement in multiple legal 
+analyses and for providing aframework for evaluating differences in 
+interpretation of thelaw.
+
+- The threshold of a “use of force” must be balanced betweenon the one 
+hand State’s willingness to avoid any harmful con-sequences caused by 
+the actions of others States and one theother hand its motivation to 
+preserve their freedom of action.The evaluation criteria proposed by 
+the International Groupof Experts in the Tallinn Manual seek to 
+balance these con-flicting objectives through consideratio
+
+# {whetham2016we}
+
+- In a time when the clear dividing lines between war and peace are 
+challenged by newtechniques and methods of conducting hostilities, it 
+is often difficult to tell if one is ina state of war or not. Even 
+states that do not consider themselves to be ‘at war’ findthemselves 
+living under heightened security, with attacks on citizens, economic 
+infra-structure, or way of life being a constant theme. 
+
+- The Just War Tradition has provided a framework for thinking about 
+warfarefor well over 2,000 years. While the exact details may vary a 
+little, the core ideas areshared across religious and secular culture, 
+underpinning international law. 
+
+- The Just War Tradition, in the West at least, developed out of a 
+synthesis of classicalGreco-Roman and later Christian values, although 
+it would be a mistake to considerit as a purely Western or even as a 
+religious phenomenon.4The tradition guides nor-mative thinking about 
+what is and what is not acceptable, even in times of war. Itscore 
+ideas—that there should be limits on when the use of force can be 
+consideredlegitimate (thejus  ad  bellum), and that there should also 
+be limits on what andwhom that force can be directed against (thejus 
+in bello)—have found expression inall societies due to the recognition 
+that they need to restrain the wars they fight insome way.5While the 
+exact details may vary a little, the core ideas are shared 
+acrossreligious and secular culture, underpinning international law. 
+The ubiquitous natureof the thinking found in the Just War Tradition 
+therefore represents something of “acommon language for discussing and 
+debating the rights and wrongs of conflict.”6When those norms are 
+violated, those violations are, generally speaking, recognisedand 
+condemned as such.
+
+- The character ofconflict appears to be morphing in other ways, too. 
+Robert Gates, U.S. Secretary ofDefense, described the problem when he 
+articulated, “the categories of warfare areblurring and no longer fit 
+into neat, tidy boxes. One can expect to see more toolsand tactics of 
+destruction—from the sophisticated to the simple—being 
+employedsimultaneously in hybrid and more complex forms of warfare.”
+
+# {boer2015echoes}
+
+- The  debate  on  the  (in)applicability  of  Article  2(4)  to  
+cyber  attacks  shows  at-tempts to apply the 1945 prohibition to a 
+21st-century phenomenon.
+
+- Article2(4) includes the use of minor military force, the use of 
+biological and chemicalweapons as well as non-military physical force, 
+yet excludes economic coercionand, possibly, minor cyber attacks
+
+- The application of existing rules ischallenging, the Editorial 
+argued, as ‘the relevant rules have been developed fordifferent  types 
+ of  situations  or  events,  whereas  cyber  security  involves  
+manyadditional complicating factors...’
+
+- One of the ensuing questions is whether acyber attack can violate 
+the prohibition on the use of force.
